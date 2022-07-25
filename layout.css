@@ -1,0 +1,41 @@
+.calc_form {
+    padding: 20px;
+    background-color: #efefef;
+    width:27%;
+    margin: auto;
+    border-radius: 7%;
+    box-shadow:
+    7.3px 6.5px 3.5px rgba(0, 0, 0, 0.095),
+    15.1px 13.4px 8.2px rgba(0, 0, 0, 0.118),
+    23.6px 20.9px 14.7px rgba(0, 0, 0, 0.133),
+    33.3px 29.5px 24.4px rgba(0, 0, 0, 0.145),
+    45.7px 40.5px 40.2px rgba(0, 0, 0, 0.157),
+    65.4px 58px 70.3px rgba(0, 0, 0, 0.169),
+    106px 94px 152px rgba(0, 0, 0, 0.18)
+  ;
+
+
+  }
+
+  #calc {
+    width: 100%;
+    border: 2px solid #fff;
+    height: 50px;
+  }
+  .container {
+    margin-top: 8%;
+  }
+  /* body {
+    background-color: #000 !important;
+  }
+  html {
+    background-color: #000;
+  } */
+  .btnn{
+    border-radius: 50px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  23px 23px 37px #bebebe,
+                 -23px -23px 37px #ffffff;
+                 
+   border:1px solid #bebebe
+  }
